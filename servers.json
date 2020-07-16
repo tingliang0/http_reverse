@@ -1,0 +1,23 @@
+[
+    {
+        "server_id": "1001",
+        "proxy": {
+            "Scheme": "http",
+            "Host": "localhost:8887"
+        }
+    },
+    {
+        "server_id": "1002",
+        "proxy": {
+            "Scheme": "http",
+            "Host": "172.16.20.43:8887"
+        }
+    },
+    {
+        "server_id": "1003",
+        "proxy": {
+            "Scheme": "http",
+            "Host": "localhost:8887"
+        }
+    }
+]
